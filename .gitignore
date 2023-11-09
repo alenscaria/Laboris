@@ -1,0 +1,12 @@
+
+bin/
+obj/
+Migrations/
+Properties/
+
+appsettings.json
+appsettings.Development.json
+
+/node_modules
+/wwwroot/node_modules
+
